@@ -1,24 +1,24 @@
-# 👋 Hi, I’m @YashMuleDev
+# 👋 Hey there! I'm Yash Mule
 
-## 👀 I’m interested in:
-- Software development
-- Web development
-- Database management
-- Cybersecurity
+## 👀 Areas of Interest
+- Software Development
+- Web Development (Frontend & Backend)
+- Database Management Systems
+- Cybersecurity and Data Protection
 
-## 🌱 I’m currently learning:
-- Dsa with c++
-- Advanced Technology concepts
-- Database management systems
+## 🌱 Currently Learning
+- Data Structures and Algorithms in C++
+- Advanced Technology Concepts
+- System Design & DBMS Fundamentals
 
-## 💞️ I’m looking to collaborate on:
-- Open-source projects
-- Innovative mobile/web applications
-- IT-related research and development
+## 🤝 Open to Collaborate On
+- Real-world Open Source Projects
+- Innovative Web and Mobile Applications
+- Tech Research & Development in the IT Domain
 
-## 📫 How to reach me:
-- LinkedIn: [Yash Mule](https://linkedin.com/yash-mule)
-- Email: yash.mule.engineer@gmail.com
+## 📫 Let's Connect
+- 🔗 [LinkedIn](https://linkedin.com/yash-mule)
+- 📧 yash.mule.engineer@gmail.com
 
-## ⚡ Fun fact:
-I have a keen interest in technology trends and love to explore new programming languages and frameworks!
+## ⚡ Fun Fact
+I'm always excited to explore emerging tech trends and enjoy experimenting with new programming languages and frameworks!
